@@ -22,7 +22,7 @@ a:hover {
   color: red;
 }
 .link:hover {
-  color:#ffeba7;
+  color:red;
 }
 p {
   font-weight: 500;
@@ -61,7 +61,7 @@ h6 span{
   padding: 0;
   margin: 10px auto;
   cursor: pointer;
-  background-color: #ffeba7;
+  background-color: red;
 }
 .checkbox:checked + label:before,
 .checkbox:not(:checked) + label:before{
@@ -70,7 +70,7 @@ h6 span{
   width: 36px;
   height: 36px;
   border-radius: 50%;
-  color: #ffeba7;
+  color: red;
   background-color: #102770;
   font-family: 'unicons';
   content: '\eb4f';
@@ -256,7 +256,7 @@ h6 span{
   -ms-flex-pack: center;
   text-align: center;
   border: none;
-  background-color: #ffeba7;
+  background-color: red;
   color: #102770;
   box-shadow: 0 8px 24px 0 rgba(255,235,167,.2);
 }
@@ -268,6 +268,6 @@ h6 span{
 }
 .btn:hover{
   background-color: #102770;
-  color:#ffeba7;
+  color:red;
   box-shadow: 0 8px 24px 0 rgba(16,39,112,.2);
 }
