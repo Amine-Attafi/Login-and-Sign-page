@@ -19,7 +19,7 @@ a:hover {
 	text-decoration: none;
 }
 .link {
-  color: #c4c3ca;
+  color: red;
 }
 .link:hover {
   color:#ffeba7;
@@ -263,7 +263,7 @@ h6 span{
 .btn:active,
 .btn:focus{
   background-color: #102770;
-  color: #ffeba7;
+  color: red;
   box-shadow: 0 8px 24px 0 rgba(16,39,112,.2);
 }
 .btn:hover{
